@@ -1,0 +1,73 @@
+h1 {
+   color: rgb(229, 231, 233);
+   text-align: center;
+   font-size: 52px;
+   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg")
+}
+
+.outsidediv {
+   font-family: Cambria, serif;
+   margin-top: 16px;
+   margin-right: 16px;
+   margin-bottom: 16px;
+   margin-left: 16px;
+}
+
+.bold {
+   font-weight: bold;
+   color: rgb(255, 255, 255);
+   text-decoration: underline;
+}
+
+.p {
+  color: rgb(255, 255, 255);
+}
+
+.list, .a1, .a2, .a3 {
+  text-decoration: none;
+  color: white;
+}
+
+.background1 {
+   background-image: url("https://4.bp.blogspot.com/-7e5i3gvf-o4/UdFpAi0GJfI/AAAAAAAAFN0/dt41gu945l0/s256/black-groove-stripes-repeating-background.jpg");
+}
+
+#brushes {
+   background-color: Green;
+   background-position: center;
+   text-align: center;
+}
+
+.imgbrushes {
+   display: block;
+   margin: auto;
+   width: auto;
+}
+
+#frames {
+   background-color: Red;
+   background-size: 200px 100px;
+   text-align: center;
+}
+
+.imgframes {
+  display: block;
+  margin: auto;
+  width: auto;
+}
+
+#paint {
+   background-color: skyblue;
+   background-size: 200px 100px;
+   text-align: center;
+}
+
+.imgpaint {
+  display: block;
+  margin: auto;
+  width: auto;
+}
+
+.s1, .s2, .s3 {
+   color: rgb(229, 231, 233);
+}
